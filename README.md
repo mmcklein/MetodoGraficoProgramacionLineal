@@ -154,10 +154,10 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 
-## 👤 Autor
+## 👤 Autor yo 
 
 **Tu Nombre**  
-GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+GitHub: [@TU_USUARIO](https://github.com/mmcklein)
 
 ---
 
@@ -169,4 +169,4 @@ GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
 
 ---
 
-⭐ **Si te resultó útil, deja una estrella en el repositorio** ⭐
+⭐ **Si te resultó útil, deja una estrella en el repositorio. grash pa** ⭐
